@@ -21,7 +21,7 @@ set $menu bemenu-run
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg ~/wallpapers/ts.png fill
+output * bg #928374 solid_color
 #
 # Example configuration:
 #
